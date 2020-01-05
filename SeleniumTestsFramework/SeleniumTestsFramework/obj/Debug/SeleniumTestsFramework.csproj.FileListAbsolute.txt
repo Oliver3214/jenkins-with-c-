@@ -1,0 +1,12 @@
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\bin\Debug\SeleniumTestsFramework.exe.config
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\bin\Debug\SeleniumTestsFramework.exe
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\bin\Debug\SeleniumTestsFramework.pdb
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\bin\Debug\nunit.framework.dll
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\bin\Debug\WebDriver.dll
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\bin\Debug\nunit.framework.xml
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\bin\Debug\WebDriver.xml
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\obj\Debug\SeleniumTestsFramework.csprojAssemblyReference.cache
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\obj\Debug\SeleniumTestsFramework.csproj.CopyComplete
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\obj\Debug\SeleniumTestsFramework.exe
+C:\Users\Oliver Perez\source\repos\SeleniumTestsFramework\SeleniumTestsFramework\obj\Debug\SeleniumTestsFramework.pdb
